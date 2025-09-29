@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
-        "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true".
+        "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true",
         "DreamShaperXL_Turbo_v2_1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/DreamShaperXL_Turbo_v2_1.safetensors?download=true"
 
 
